@@ -9,7 +9,7 @@ const ProductCard = ({ product }) => {
  
 
   return (
-    <div className="card w-80 bg-base-100 shadow-lg relative">
+    <div className="card  bg-base-100 shadow-lg relative ">
       <figure className="p-4">
         <Image
           width={200}
