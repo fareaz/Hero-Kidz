@@ -37,20 +37,17 @@ http://localhost:3000/
 
 Clone the project:
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/fareaz/Hero-Kidz.git
 cd hero-kidz
 Install dependencies:
 
 bash
-Copy code
 npm install
 Run the development server:
 
 bash
-Copy code
 npm run dev
 Open your browser and visit:
 
 bash
-Copy code
 http://localhost:3000
